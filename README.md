@@ -41,11 +41,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="eclipse"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="intellij"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notepadplusplus/notepadplusplus-original.svg" width="40" height="40" alt="notepad++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="sql-workbench"/>
 </p>
 
-  - Other tools I've used: 
+  - Other tools I've used:
+    - Notepad++
     - Quartus  
     - WinHugs  
     - GNU Prolog  
