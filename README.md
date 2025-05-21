@@ -3,7 +3,10 @@
 # About Me
 
 - 🎓 I’m currently an undergraduate Student at University of Ioannina, in the Computer Science and Engineering department.
-- 🧠 I'm especially interested in Python, algorithmic thinking, Data analytics , and building practical, data-driven projects that solve real problems. 
+- 🧠 I'm especially interested in:
+  - Python and algorithmic thinking  
+  - Data analytics and practical, data-driven projects  
+  - Software and web development
 - 📈 I have a strong background in mathematics, which helps me think analytically and develop efficient solutions.
 
 ### 🧠 Tech Stack
