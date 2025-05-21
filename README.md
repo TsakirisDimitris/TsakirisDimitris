@@ -3,7 +3,7 @@
 # About Me
 
 - 🎓 I’m currently an undergraduate Student at University of Ioannina, in the Computer Science and Engineering department.
-- 🧠 I'm especially interested in Python, algorithmic thinking, and building practical, data-driven projects that solve real problems. 
+- 🧠 I'm especially interested in Python, algorithmic thinking, Data analytics , and building practical, data-driven projects that solve real problems. 
 - 📈 I have a strong background in mathematics, which helps me think analytically and develop efficient solutions.
 
 ### 🧠 Tech Stack
@@ -23,9 +23,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </p>
 
--  Other languages I've used:
-   - Assembly 
-   - Prolog
+   -  Other languages I've used:
+      - Assembly 
+      - Prolog
 
 
 - 🧰 Tools & Platforms
@@ -45,11 +45,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="sql-workbench"/>
 </p>
 
-- Other tools I've used: 
-  - Quartus  
-  - WinHugs  
-  - GNU Prolog  
-  - RISC-V 
+  - Other tools I've used: 
+    - Quartus  
+    - WinHugs  
+    - GNU Prolog  
+    - RISC-V 
 
 - 📚 Frameworks & Libraries
 
