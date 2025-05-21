@@ -1,6 +1,10 @@
 # Hi there, I'm Dimitris Tsakiris! 👋
 
-🎓 I'm an undergraduate student at the Department of Computer Science and Engineering (CSE), University of Ioannina (Greece).
+### About Me
+
+🎓 I’m currently an undergraduate Student at University of Ioannina, in the Computer Science and Engineering department.
+🧠 I'm especially interested in Python, algorithmic thinking, and building practical, data-driven projects that solve real problems. 
+📈 I have a strong background in mathematics, which helps me think analytically and develop efficient solutions.
 
 ### 🧠 Tech Stack
 
