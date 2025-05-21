@@ -17,8 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Assembly_language_icon.svg" alt="assembly" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Prolog_logo.png" alt="prolog" width="40" height="40"/>
 </p>
 
 #### 🧰 Tools & Platforms
