@@ -1,14 +1,14 @@
 # Hi there, I'm Dimitris Tsakiris! 👋
 
-### About Me
+# About Me
 
-🎓 I’m currently an undergraduate Student at University of Ioannina, in the Computer Science and Engineering department.
-🧠 I'm especially interested in Python, algorithmic thinking, and building practical, data-driven projects that solve real problems. 
-📈 I have a strong background in mathematics, which helps me think analytically and develop efficient solutions.
+- 🎓 I’m currently an undergraduate Student at University of Ioannina, in the Computer Science and Engineering department.
+- 🧠 I'm especially interested in Python, algorithmic thinking, and building practical, data-driven projects that solve real problems. 
+- 📈 I have a strong background in mathematics, which helps me think analytically and develop efficient solutions.
 
 ### 🧠 Tech Stack
 
-#### 👨‍💻 Programming Languages
+- 👨‍💻 Programming Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -23,7 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </p>
 
-#### 🧰 Tools & Platforms
+- 🧰 Tools & Platforms
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
