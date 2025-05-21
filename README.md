@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Dimitris Tsakiris! 👋
 
 🎓 I'm an undergraduate student at the Department of Computer Science and Engineering (CSE), University of Ioannina (Greece).
