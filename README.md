@@ -6,8 +6,8 @@
 - 🧠 I'm especially interested in:
   - Python and algorithmic thinking  
   - Data analytics and practical, data-driven projects  
-  - Software and web development
-- 📈 I have a strong background in mathematics, which helps me think analytically and develop efficient solutions.
+  - Software and Web development
+- 📈 I enjoy solving problems using mathematics and logical reasoning, which helps me think analytically and develop efficient solutions.
 
 ### 🧠 Tech Stack
 
@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="unix" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="pycharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="eclipse"/>
