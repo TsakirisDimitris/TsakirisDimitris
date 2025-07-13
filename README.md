@@ -61,7 +61,8 @@
 </p>
 
 ### 🚀 Projects
-- 
+- Compiler (Python, C)
+- Battleship (Python)
 
 ### 📫 How to reach me: 
 - Email: tsakiris.k.dimitris@gmail.com
