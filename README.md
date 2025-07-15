@@ -61,8 +61,9 @@
 </p>
 
 ### 🚀 Projects
-- Compiler (Python, C)
+- Compiler (Python)
 - Battleship (Python)
+- ConsoleCalculator (Java)
 
 ### 📫 How to reach me: 
 - Email: tsakiris.k.dimitris@gmail.com
