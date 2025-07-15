@@ -70,5 +70,8 @@
 - LinkedIn: 
 
 ---
+## 📊 GitHub Stats
+
+![Dimitris Tsakiris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsakiris-dimitris&show_icons=true&theme=tokyonight)
 
 Thanks for visiting my profile!
