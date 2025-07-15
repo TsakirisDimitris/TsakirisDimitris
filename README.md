@@ -72,6 +72,9 @@
 ---
 ## 📊 GitHub Stats
 
-![Dimitris Tsakiris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsakiris-dimitris&show_icons=true&theme=tokyonight)
+![Dimitris Tsakiris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TsakirisDimitris&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsakirisDimitris&layout=compact&theme=tokyonight)
+
 
 Thanks for visiting my profile!
