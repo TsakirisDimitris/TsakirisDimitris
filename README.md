@@ -63,7 +63,7 @@
 
 * 📝 **[Terminal To-Do List](https://github.com/TsakirisDimitris/Terminal-ToDo-List)**  
   *A colorful, interactive, and multi-user To-Do List application built directly for the terminal. Features timestamps and progress tracking.* `Python`
-* ⚙️ **[Compiler](https://github.com/TsakirisDimitris/ONOMA_TOU_REPO_SOU_EDW)**  
+* ⚙️ **[Compiler](https://github.com/TsakirisDimitris/Compiler)**  
   *A custom compiler built as part of coursework.* `Python`
 
 ---
