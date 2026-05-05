@@ -61,7 +61,7 @@
 
 ### 🚀 Projects
 
-* 📝 **[Terminal To-Do List](https://github.com/TsakirisDimitris/Terminal-ToDo-List)**  
+* 📝 **[Terminal To-Do List](https://github.com/TsakirisDimitris/ToDoList)**  
   *A colorful, interactive, and multi-user To-Do List application built directly for the terminal. Features timestamps and progress tracking.* `Python`
 * ⚙️ **[Compiler](https://github.com/TsakirisDimitris/Compiler)**  
   *A custom compiler built as part of coursework.* `Python`
